@@ -53,7 +53,7 @@ Das Roulette-Spiel läuft komplett im **Terminal** und simuliert eine vereinfach
   - `gerade_ungerade(zahl)` – prüft, ob die gezogene Zahl gerade oder ungerade ist
 
   Nach Eingabe der Wetten wird eine Zufallszahl (0–36) über `random.randint()` gezogen, das Ergebnis ausgegeben und Gewinne bzw. Verluste berechnet.  
-  Anschließend werden die Ergebnisse in der Datei `roulette_verlauf.csv` gespeichert.
+  Anschliessend werden die Ergebnisse in der Datei `roulette_verlauf.csv` gespeichert.
 
 ---
 
